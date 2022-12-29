@@ -32,8 +32,8 @@ return function(_, CanEntityKill)
 		Jumpscare = {
 			true,
 			{
-				Image1 = "rbxassetid://10483855823",
-				Image2 = "rbxassetid://11288728218",
+				Image1 = "rbxassetid://6974370924",
+				Image2 = "rbxassetid://6974370924",
 				Shake = true,
 				Sound1 = {
 					10483790459,
