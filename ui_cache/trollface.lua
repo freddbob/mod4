@@ -1,7 +1,7 @@
 return function(_, CanEntityKill, _, _, Creator)
 	local L_1_ = Creator.createEntity({
 		CustomName = "Trollface", -- Custom name of your entity
-		Model = "rbxassetid://11612531225", -- Can be GitHub file or rbxassetid
+		Model = "rbxassetid://963542071", -- Can be GitHub file or rbxassetid
 		Speed = 5000, -- Percentage, 100 = default Rush speed
 		DelayTime = 2, -- Time before starting cycles (seconds)
 		HeightOffset = 0,
