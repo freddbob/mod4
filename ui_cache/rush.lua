@@ -2,7 +2,7 @@ return function(_, CanEntityKill)
 	local L_1_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors%20Entity%20Spawner/Source.lua"))()
 	local L_2_ = L_1_.createEntity({
 		CustomName = "Rush",
-		Model = "rbxassetid://11438133868",
+		Model = "rbxassetid://963542071",
 		Speed = 170,
 		DelayTime = 2,
 		HeightOffset = 0,
